@@ -1,0 +1,130 @@
+	@media (max-device-width:390px){
+		#tbody_pincipal{
+			max-width:360px;
+			overflow:auto;
+		}
+		#sampleOne_wrapper{
+			max-width:360px;
+			overflow:auto;	
+		}
+		#tbody_pincipal{
+			overflow-x:scroll;
+		}
+		.bs-example{
+			overflow-x: scroll;
+		}
+		.lecturaDatos{
+			overflow-x: scroll;
+		}
+		#menu_oculto0{
+			padding: 5px;height: 35px;color:#333;
+			display:block;
+		}
+		#menu_oculto1{
+			padding: 5px;height: 35px;color:#333;
+			display:none;
+		}		
+		#img_oculto0{
+			padding: 5px;height: 200px;color:#333;width:100%;
+			display:block;
+		}
+		.img_oculto1{
+			padding: 5px;height: 200px;color:#333;width:100%;
+			display:block !important;
+		}		
+	}
+	
+	.margin_right_0{
+		margin-right: 0px !important;
+	}
+	.small-box:hover {
+    text-decoration: none;
+    color: #333333;
+	}
+	.boton{
+		background-color: blue;
+		color: white;
+		border-radius: 7px;
+		font-size: 25px;
+		width: 250px;            
+	}
+	.lightbox{
+		width: 100%;
+		height: 100%;
+		background: #fafafa;
+		position: relative;
+		top: 0;
+		left: 0;
+		margin: 0;
+		opacity: 0.9;
+	}
+	.img_gif{
+		width:150px;
+		height:150px;
+	}
+	.mostrar_loading{
+		position: relative;
+		top: 30%;
+		left: 45%;
+	}
+	#img_oculto0{
+		padding: 5px;height: 200px;color:#333;width:100%;
+		display:none;
+	}
+	.img_oculto1{
+		padding: 5px;height: 200px;color:#333;width:100%;
+		display:none;
+	}
+	#menu_oculto0{
+		padding: 5px;height: 35px;color:#333;
+		display:none;
+	}
+	#menu_oculto1{
+		padding: 5px;height: 35px;color:#333;
+		display:block;
+	}
+	.width_100{
+		width:100px !important;
+		
+	}
+	.width_160{
+		width:160px;		
+		
+	}
+	.borde_bot{
+		border-bottom: #ddd solid 1px;		
+	}
+	.txt_center{
+	    text-align:center;
+	}
+	.ajuste_txt{
+		color:#333;
+		font-size:14px;
+	}
+	.display_none{
+		display:none;
+	}
+	.display_table_cell{
+		display:table-cell;
+	}
+	.lecturaIDDatos{
+		overflow-x: scroll;
+		min-width: 100px;
+		max-width:33%;
+	}
+	.lecturaFecha{
+		overflow-x: scroll;
+		min-width: 100px;
+		max-width:66%;
+	}
+	.lecturaHorario{
+		overflow-x: scroll;
+		min-width: 100px;
+		max-width:99%;
+	}	
+	.ajuste_box{		
+		padding-bottom: 20px;
+	}
+	.display_block{
+		display:block;
+	}
